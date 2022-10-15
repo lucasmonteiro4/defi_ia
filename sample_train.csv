@@ -1,0 +1,311 @@
+hotel_id,price,stock,city,date,language,mobile,avatar_id,group,brand,parking,pool,children_policy
+62,86,0,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+882,221,0,paris,2,french,0,30892,Accar Hotels,Marcure,1,1,0
+602,115,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+447,136,0,paris,2,french,0,30892,Accar Hotels,Navatel,1,0,1
+645,161,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,1
+853,188,2,paris,2,french,0,30892,Chillton Worldwide,Tripletree,1,0,0
+492,117,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+970,328,3,paris,2,french,0,30892,Chillton Worldwide,Chill Garden Inn,0,0,2
+301,133,2,paris,2,french,0,30892,Independant,Independant,0,0,0
+66,186,1,paris,2,french,0,30892,Yin Yang,Ardisson,0,0,0
+797,145,0,paris,2,french,0,30892,Accar Hotels,Navatel,0,0,0
+65,161,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+534,399,2,paris,2,french,0,30892,Morriott International,Corlton,0,0,0
+306,226,3,paris,2,french,0,30892,Accar Hotels,Marcure,0,1,0
+259,138,0,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+477,84,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+342,120,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+573,344,2,paris,2,french,0,30892,Chillton Worldwide,Chill Garden Inn,1,1,1
+790,454,2,paris,2,french,0,30892,Accar Hotels,Safitel,1,1,0
+738,143,1,paris,2,french,0,30892,Accar Hotels,Navatel,0,0,0
+509,89,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+825,188,3,paris,2,french,0,30892,Morriott International,CourtYord,0,0,0
+942,313,1,paris,2,french,0,30892,Chillton Worldwide,Quadrupletree,0,1,0
+734,141,0,paris,2,french,0,30892,Accar Hotels,Navatel,0,0,0
+225,191,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,0
+634,87,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+614,88,0,paris,2,french,0,30892,Accar Hotels,Ibas,1,0,0
+27,354,4,paris,2,french,0,30892,Morriott International,Corlton,1,0,0
+227,85,0,paris,2,french,0,30892,Yin Yang,8 Premium,0,0,0
+705,143,0,paris,2,french,0,30892,Boss Western,Boss Western,1,0,0
+612,226,2,paris,2,french,0,30892,Chillton Worldwide,Quadrupletree,0,1,0
+571,456,1,paris,2,french,0,30892,Accar Hotels,Safitel,0,1,0
+207,164,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,1
+748,318,1,paris,2,french,0,30892,Accar Hotels,Marcure,0,0,0
+980,114,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+339,253,2,paris,2,french,0,30892,Morriott International,Morriot,1,1,0
+858,300,1,paris,2,french,0,30892,Yin Yang,Royal Lotus,1,0,0
+308,297,1,paris,2,french,0,30892,Chillton Worldwide,Quadrupletree,0,0,0
+165,161,2,paris,2,french,0,30892,Independant,Independant,1,0,0
+121,83,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+851,89,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+742,417,2,paris,2,french,0,30892,Accar Hotels,Safitel,1,1,0
+95,454,2,paris,2,french,0,30892,Morriott International,Corlton,1,0,0
+785,284,1,paris,2,french,0,30892,Morriott International,Morriot,1,1,0
+926,188,10,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,0,0
+803,363,2,paris,2,french,0,30892,Accar Hotels,Safitel,0,0,0
+132,448,2,paris,2,french,0,30892,Accar Hotels,Safitel,0,1,0
+305,193,2,paris,2,french,0,30892,Morriott International,CourtYord,1,0,0
+522,196,1,paris,2,french,0,30892,Boss Western,Boss Western,1,0,0
+975,165,4,paris,2,french,0,30892,Yin Yang,Ardisson,0,0,0
+331,98,2,paris,2,french,0,30892,Independant,Independant,0,0,0
+192,119,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+756,247,2,paris,2,french,0,30892,Yin Yang,Royal Lotus,1,1,0
+49,161,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+188,85,8,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+257,188,0,paris,2,french,0,30892,Morriott International,CourtYord,0,0,0
+327,226,0,paris,2,french,0,30892,Morriott International,Morriot,0,0,0
+910,88,0,paris,2,french,0,30892,Yin Yang,8 Premium,0,0,0
+69,252,46,paris,2,french,0,30892,Accar Hotels,Safitel,0,0,0
+299,115,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+584,461,2,paris,2,french,0,30892,Accar Hotels,Safitel,0,0,0
+736,224,1,paris,2,french,0,30892,Morriott International,Morriot,0,0,0
+412,265,65,paris,2,french,0,30892,Accar Hotels,Safitel,1,0,0
+767,188,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,0
+41,136,2,paris,2,french,0,30892,Accar Hotels,Navatel,1,0,0
+776,159,0,paris,2,french,0,30892,Morriott International,CourtYord,1,0,0
+176,86,0,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+397,426,2,paris,2,french,0,30892,Morriott International,Corlton,0,1,0
+868,287,1,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,1,1
+629,87,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+949,395,2,paris,2,french,0,30892,Accar Hotels,Safitel,0,1,0
+837,418,2,paris,2,french,0,30892,Accar Hotels,Safitel,1,1,0
+580,141,4,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+863,456,2,paris,2,french,0,30892,Chillton Worldwide,Chill Garden Inn,0,1,0
+782,369,4,paris,2,french,0,30892,Morriott International,Corlton,0,1,0
+119,315,1,paris,2,french,0,30892,Morriott International,Morriot,1,0,0
+357,188,2,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+631,83,0,paris,2,french,0,30892,Yin Yang,8 Premium,1,0,0
+21,86,0,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+946,323,1,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,0,0
+564,92,0,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+314,117,0,paris,2,french,0,30892,Independant,Independant,1,0,1
+885,191,2,paris,2,french,0,30892,Chillton Worldwide,Tripletree,0,0,0
+28,199,1,paris,2,french,0,30892,Boss Western,Boss Western,0,0,1
+449,221,2,paris,2,french,0,30892,Yin Yang,Royal Lotus,1,0,0
+992,83,0,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+560,186,2,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+94,250,42,paris,2,french,0,30892,Accar Hotels,Safitel,0,0,0
+379,352,2,paris,2,french,0,30892,Morriott International,Corlton,0,0,0
+647,143,0,paris,2,french,0,30892,Boss Western,Boss Western,1,0,0
+741,190,2,paris,2,french,0,30892,Morriott International,CourtYord,0,0,0
+248,313,1,paris,2,french,0,30892,Accar Hotels,Marcure,0,0,0
+963,136,0,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+222,340,3,paris,2,french,0,30892,Morriott International,Corlton,1,0,0
+14,156,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+795,165,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,0
+436,247,19,paris,2,french,0,30892,Accar Hotels,Safitel,0,0,0
+842,443,2,paris,2,french,0,30892,Accar Hotels,Safitel,1,1,0
+722,193,2,paris,2,french,0,30892,Yin Yang,Ardisson,1,0,0
+150,226,10,paris,2,french,0,30892,Accar Hotels,Marcure,0,0,0
+216,241,4,paris,2,french,0,30892,Morriott International,Morriot,1,0,0
+817,302,1,paris,2,french,0,30892,Chillton Worldwide,Quadrupletree,1,1,0
+338,196,13,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,0,0
+558,102,0,paris,2,french,0,30892,Accar Hotels,Ibas,1,0,0
+700,177,57,paris,2,french,0,30892,Accar Hotels,Marcure,0,0,0
+254,164,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+889,191,0,paris,2,french,0,30892,Chillton Worldwide,Tripletree,0,0,0
+948,241,2,paris,2,french,0,30892,Accar Hotels,Marcure,1,1,0
+359,141,1,paris,2,french,0,30892,Accar Hotels,Navatel,0,0,0
+115,107,18,paris,2,french,0,30892,Independant,Independant,1,0,0
+708,188,2,paris,2,french,0,30892,Yin Yang,Ardisson,1,0,0
+29,318,1,paris,2,french,0,30892,Accar Hotels,Marcure,1,0,0
+866,456,2,paris,2,french,0,30892,Accar Hotels,Safitel,1,1,0
+579,85,0,paris,2,french,0,30892,Accar Hotels,Ibas,0,0,0
+133,158,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+419,136,2,paris,2,french,0,30892,Accar Hotels,Navatel,1,0,0
+663,155,4,paris,2,french,0,30892,Chillton Worldwide,Tripletree,0,0,0
+576,226,0,paris,2,french,0,30892,Morriott International,Morriot,0,0,0
+595,188,0,paris,2,french,0,30892,Morriott International,CourtYord,0,0,0
+290,191,2,paris,2,french,0,30892,Yin Yang,Ardisson,0,0,0
+199,228,0,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,0,0
+903,89,0,paris,2,french,0,30892,Independant,Independant,1,0,0
+577,188,0,paris,2,french,0,30892,Yin Yang,Ardisson,1,1,1
+723,86,0,paris,2,french,0,30892,Accar Hotels,Ibas,1,0,0
+640,193,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+792,85,4,paris,2,french,0,30892,Independant,Independant,0,0,0
+841,87,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+937,280,1,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,0,0
+808,441,2,paris,2,french,0,30892,Accar Hotels,Safitel,1,0,0
+229,221,3,paris,2,french,0,30892,Accar Hotels,Marcure,1,0,0
+123,155,1,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+911,153,4,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+823,313,1,paris,2,french,0,30892,Accar Hotels,Marcure,1,1,0
+684,85,0,paris,2,french,0,30892,Yin Yang,8 Premium,0,0,0
+159,315,1,paris,2,french,0,30892,Chillton Worldwide,Quadrupletree,1,0,0
+972,100,4,paris,2,french,0,30892,Independant,Independant,1,0,0
+884,222,0,paris,2,french,0,30892,Accar Hotels,Marcure,0,0,0
+474,183,2,paris,2,french,0,30892,Chillton Worldwide,Tripletree,0,0,0
+998,224,0,paris,2,french,0,30892,Yin Yang,Royal Lotus,0,0,0
+274,191,0,paris,2,french,0,30892,Morriott International,CourtYord,1,0,0
+731,188,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,0
+130,315,1,paris,2,french,0,30892,Accar Hotels,Marcure,0,0,0
+484,138,2,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+986,321,1,paris,2,french,0,30892,Chillton Worldwide,Quadrupletree,1,1,0
+656,150,1,paris,2,french,0,30892,Boss Western,Boss Western,1,0,0
+599,103,14,paris,2,french,0,30892,Independant,Independant,0,0,0
+912,164,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,0,0,0
+182,162,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,0
+735,194,1,paris,2,french,0,30892,Boss Western,Boss Western,0,0,0
+467,255,45,paris,2,french,0,30892,Accar Hotels,Safitel,0,0,0
+148,114,0,paris,2,french,0,30892,Independant,Independant,0,0,0
+24,410,2,paris,2,french,0,30892,Morriott International,Corlton,0,1,0
+392,190,0,paris,2,french,0,30892,Chillton Worldwide,Tripletree,0,1,1
+238,159,0,paris,2,french,0,30892,Boss Western,J.Halliday Inn,1,0,0
+617,448,2,paris,2,french,0,30892,Morriott International,Corlton,0,1,0
+858,300,1,paris,1,french,1,31622,Yin Yang,Royal Lotus,1,0,0
+785,284,1,paris,1,french,1,31622,Morriott International,Morriot,1,1,0
+734,141,0,paris,1,french,1,31622,Accar Hotels,Navatel,0,0,0
+222,340,2,paris,1,french,1,31622,Morriott International,Corlton,1,0,0
+882,221,0,paris,1,french,1,31622,Accar Hotels,Marcure,1,1,0
+176,86,0,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+992,83,0,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+94,230,38,paris,1,french,1,31622,Accar Hotels,Safitel,0,0,0
+314,117,0,paris,1,french,1,31622,Independant,Independant,1,0,1
+150,208,10,paris,1,french,1,31622,Accar Hotels,Marcure,0,0,0
+290,191,0,paris,1,french,1,31622,Yin Yang,Ardisson,0,0,0
+645,161,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,1
+738,143,0,paris,1,french,1,31622,Accar Hotels,Navatel,0,0,0
+970,328,1,paris,1,french,1,31622,Chillton Worldwide,Chill Garden Inn,0,0,2
+577,188,0,paris,1,french,1,31622,Yin Yang,Ardisson,1,1,1
+573,424,1,paris,1,french,1,31622,Chillton Worldwide,Chill Garden Inn,1,1,1
+576,226,0,paris,1,french,1,31622,Morriott International,Morriot,0,0,0
+115,98,17,paris,1,french,1,31622,Independant,Independant,1,0,0
+776,159,0,paris,1,french,1,31622,Morriott International,CourtYord,1,0,0
+484,127,1,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+972,92,3,paris,1,french,1,31622,Independant,Independant,1,0,0
+436,227,15,paris,1,french,1,31622,Accar Hotels,Safitel,0,0,0
+492,117,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+825,173,2,paris,1,french,1,31622,Morriott International,CourtYord,0,0,0
+617,448,1,paris,1,french,1,31622,Morriott International,Corlton,0,1,0
+808,441,1,paris,1,french,1,31622,Accar Hotels,Safitel,1,0,0
+884,222,0,paris,1,french,1,31622,Accar Hotels,Marcure,0,0,0
+509,89,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+868,287,1,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,1,1
+580,129,4,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+614,88,0,paris,1,french,1,31622,Accar Hotels,Ibas,1,0,0
+342,120,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+306,226,1,paris,1,french,1,31622,Accar Hotels,Marcure,0,1,0
+866,456,1,paris,1,french,1,31622,Accar Hotels,Safitel,1,1,0
+795,165,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,0
+229,204,1,paris,1,french,1,31622,Accar Hotels,Marcure,1,0,0
+133,158,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+942,313,1,paris,1,french,1,31622,Chillton Worldwide,Quadrupletree,0,1,0
+66,186,0,paris,1,french,1,31622,Yin Yang,Ardisson,0,0,0
+308,297,1,paris,1,french,1,31622,Chillton Worldwide,Quadrupletree,0,0,0
+119,315,1,paris,1,french,1,31622,Morriott International,Morriot,1,0,0
+24,410,1,paris,1,french,1,31622,Morriott International,Corlton,0,1,0
+656,150,0,paris,1,french,1,31622,Boss Western,Boss Western,1,0,0
+254,164,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+599,95,12,paris,1,french,1,31622,Independant,Independant,0,0,0
+227,85,0,paris,1,french,1,31622,Yin Yang,8 Premium,0,0,0
+986,321,1,paris,1,french,1,31622,Chillton Worldwide,Quadrupletree,1,1,0
+65,161,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+121,83,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+853,173,1,paris,1,french,1,31622,Chillton Worldwide,Tripletree,1,0,0
+95,454,1,paris,1,french,1,31622,Morriott International,Corlton,1,0,0
+359,141,0,paris,1,french,1,31622,Accar Hotels,Navatel,0,0,0
+723,86,0,paris,1,french,1,31622,Accar Hotels,Ibas,1,0,0
+792,78,2,paris,1,french,1,31622,Independant,Independant,0,0,0
+305,177,1,paris,1,french,1,31622,Morriott International,CourtYord,1,0,0
+579,85,0,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+558,102,0,paris,1,french,1,31622,Accar Hotels,Ibas,1,0,0
+742,417,1,paris,1,french,1,31622,Accar Hotels,Safitel,1,1,0
+238,159,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,0
+851,89,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+937,280,1,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,0,0
+477,84,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+910,88,0,paris,1,french,1,31622,Yin Yang,8 Premium,0,0,0
+192,119,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+132,448,1,paris,1,french,1,31622,Accar Hotels,Safitel,0,1,0
+357,188,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+327,226,0,paris,1,french,1,31622,Morriott International,Morriot,0,0,0
+684,85,0,paris,1,french,1,31622,Yin Yang,8 Premium,0,0,0
+188,78,7,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+447,136,0,paris,1,french,1,31622,Accar Hotels,Navatel,1,0,1
+748,318,1,paris,1,french,1,31622,Accar Hotels,Marcure,0,0,0
+182,162,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,0
+69,232,42,paris,1,french,1,31622,Accar Hotels,Safitel,0,0,0
+248,313,1,paris,1,french,1,31622,Accar Hotels,Marcure,0,0,0
+522,196,0,paris,1,french,1,31622,Boss Western,Boss Western,1,0,0
+842,443,1,paris,1,french,1,31622,Accar Hotels,Safitel,1,1,0
+602,115,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+841,87,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+837,418,1,paris,1,french,1,31622,Accar Hotels,Safitel,1,1,0
+705,143,0,paris,1,french,1,31622,Boss Western,Boss Western,1,0,0
+708,173,1,paris,1,french,1,31622,Yin Yang,Ardisson,1,0,0
+790,454,1,paris,1,french,1,31622,Accar Hotels,Safitel,1,1,0
+28,199,0,paris,1,french,1,31622,Boss Western,Boss Western,0,0,1
+412,244,63,paris,1,french,1,31622,Accar Hotels,Safitel,1,0,0
+612,208,1,paris,1,french,1,31622,Chillton Worldwide,Quadrupletree,0,1,0
+647,143,0,paris,1,french,1,31622,Boss Western,Boss Western,1,0,0
+216,241,3,paris,1,french,1,31622,Morriott International,Morriot,1,0,0
+629,87,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+756,247,1,paris,1,french,1,31622,Yin Yang,Royal Lotus,1,1,0
+123,155,0,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+912,164,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+817,302,1,paris,1,french,1,31622,Chillton Worldwide,Quadrupletree,1,1,0
+595,188,0,paris,1,french,1,31622,Morriott International,CourtYord,0,0,0
+49,161,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+27,354,2,paris,1,french,1,31622,Morriott International,Corlton,1,0,0
+29,318,1,paris,1,french,1,31622,Accar Hotels,Marcure,1,0,0
+949,395,1,paris,1,french,1,31622,Accar Hotels,Safitel,0,1,0
+449,204,1,paris,1,french,1,31622,Yin Yang,Royal Lotus,1,0,0
+823,313,1,paris,1,french,1,31622,Accar Hotels,Marcure,1,1,0
+663,143,3,paris,1,french,1,31622,Chillton Worldwide,Tripletree,0,0,0
+903,89,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+767,188,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,0
+963,136,0,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+782,369,2,paris,1,french,1,31622,Morriott International,Corlton,0,1,0
+397,426,1,paris,1,french,1,31622,Morriott International,Corlton,0,1,0
+885,191,1,paris,1,french,1,31622,Chillton Worldwide,Tripletree,0,0,0
+560,171,2,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+379,430,1,paris,1,french,1,31622,Morriott International,Corlton,0,0,0
+148,114,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+225,191,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,0
+259,138,0,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+339,253,1,paris,1,french,1,31622,Morriott International,Morriot,1,1,0
+741,190,1,paris,1,french,1,31622,Morriott International,CourtYord,0,0,0
+419,125,1,paris,1,french,1,31622,Accar Hotels,Navatel,1,0,0
+199,228,0,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,0,0
+631,83,0,paris,1,french,1,31622,Yin Yang,8 Premium,1,0,0
+722,193,0,paris,1,french,1,31622,Yin Yang,Ardisson,1,0,0
+21,86,0,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+564,92,0,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+159,315,1,paris,1,french,1,31622,Chillton Worldwide,Quadrupletree,1,0,0
+257,188,0,paris,1,french,1,31622,Morriott International,CourtYord,0,0,0
+41,125,1,paris,1,french,1,31622,Accar Hotels,Navatel,1,0,0
+534,399,1,paris,1,french,1,31622,Morriott International,Corlton,0,0,0
+274,191,0,paris,1,french,1,31622,Morriott International,CourtYord,1,0,0
+911,153,4,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+474,183,0,paris,1,french,1,31622,Chillton Worldwide,Tripletree,0,0,0
+803,363,1,paris,1,french,1,31622,Accar Hotels,Safitel,0,0,0
+584,461,1,paris,1,french,1,31622,Accar Hotels,Safitel,0,0,0
+889,191,0,paris,1,french,1,31622,Chillton Worldwide,Tripletree,0,0,0
+14,156,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+946,323,1,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,0,0
+299,115,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+62,86,0,paris,1,french,1,31622,Accar Hotels,Ibas,0,0,0
+207,164,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,1
+392,190,0,paris,1,french,1,31622,Chillton Worldwide,Tripletree,0,1,1
+975,152,3,paris,1,french,1,31622,Yin Yang,Ardisson,0,0,0
+165,161,0,paris,1,french,1,31622,Independant,Independant,1,0,0
+331,90,1,paris,1,french,1,31622,Independant,Independant,0,0,0
+130,315,1,paris,1,french,1,31622,Accar Hotels,Marcure,0,0,0
+863,456,1,paris,1,french,1,31622,Chillton Worldwide,Chill Garden Inn,0,1,0
+735,194,0,paris,1,french,1,31622,Boss Western,Boss Western,0,0,0
+467,235,43,paris,1,french,1,31622,Accar Hotels,Safitel,0,0,0
+700,163,55,paris,1,french,1,31622,Accar Hotels,Marcure,0,0,0
+634,87,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+926,173,8,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,0,0
+736,224,0,paris,1,french,1,31622,Morriott International,Morriot,0,0,0
+998,224,0,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,0,0
+980,114,0,paris,1,french,1,31622,Independant,Independant,0,0,0
+640,193,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,0,0,0
+797,145,0,paris,1,french,1,31622,Accar Hotels,Navatel,0,0,0
+301,122,1,paris,1,french,1,31622,Independant,Independant,0,0,0
+571,456,0,paris,1,french,1,31622,Accar Hotels,Safitel,0,1,0
+338,180,12,paris,1,french,1,31622,Yin Yang,Royal Lotus,0,0,0
+731,188,0,paris,1,french,1,31622,Boss Western,J.Halliday Inn,1,0,0
+948,241,1,paris,1,french,1,31622,Accar Hotels,Marcure,1,1,0
