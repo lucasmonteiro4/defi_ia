@@ -164,7 +164,23 @@ conc = functions.add_to_base(base, req)
 conc.to_csv('sample_train.csv', index=False)
 #ecriture fichier csv
 
-pd.read_csv('sample_train.csv')
+base = pd.read_csv('sample_train.csv')
 # verification
 
+langs = ['austrian', 'belgian', 'bulgarian', 'croatian', 'cypriot', 'czech', 'danish', 'dutch', 'estonian', 'finnish', 'french', 'german', 'greek', 'hungarian', 'irish', 'italian', 'latvian', 'lithuanian', 'luxembourgish', 'maltese', 'polish', 'portuguese', 'romanian', 'slovakian', 'slovene', 'spanish', 'swedish']
+cities = ['amsterdam', 'copenhagen', 'madrid', 'paris', 'rome', 'sofia', 'valletta', 'vienna', 'vilnius']
+date = 40
+avatar = "avatar7"
 
+#req = requete(langs, cities, date, avatar)
+req = functions.requete(user_id, langs, cities, date, avatar)
+# lance une requete sur toutes les villes avec toutes les langues, sélectionne mobile aléatoire entre 0 et 1 (proba = 0.5), date = 40
+
+#conc = ajouter_a_la_base(base, req)
+conc = functions.add_to_base(base, req)
+# on ajoute cette requete à notre base 
+# base = pricings_requests_1 et pricing_requests_2 et pricings_requests et req
+
+conc.to_csv('sample_train.csv', index=False)
+
+pd.read_csv('sample_train.csv')
